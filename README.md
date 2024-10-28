@@ -16,4 +16,4 @@ My research interests include:
 
 To test the inclusion of a photograph, I have included a photo of the dot plot from the assignment:
 
-![alt text](IMG_0852.JPG)
+![alt text](DotPlot.png)
